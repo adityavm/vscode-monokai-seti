@@ -25,7 +25,6 @@
     "ayu"
   ],
   "homepage": "https://github.com/adityavm/vscode-monokai-seti",
-  "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
@@ -43,9 +42,10 @@
     ]
   },
   "scripts": {
+    "pub": "vsce publish",
     "package": "vsce package"
   },
   "devDependencies": {
-    "vsce": "1.22.0"
+    "vsce": "^1.37.6"
   }
 }

@@ -1,2 +1,5 @@
 .vscode
 .tags
+*.vsix
+node_modules
+*error.log
