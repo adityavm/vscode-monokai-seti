@@ -1,0 +1,51 @@
+{
+  "name": "vscode-monokai-seti",
+  "displayName": "Monokai Seti",
+  "description": "A derivative of Monokai Seti (for Atom) for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "adityavm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adityavm/vscode-monokai-seti"
+  },
+  "bugs": {
+    "url": "https://github.com/adityavm/vscode-monokai-seti/issues",
+    "email": "github@adityamukherjee.com"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icon-theme",
+    "theme",
+    "ayu"
+  ],
+  "homepage": "https://github.com/adityavm/vscode-monokai-seti",
+  "icon": "assets/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Seti",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "Monokai Seti Icons",
+        "label": "Icons",
+        "path": "./icons.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "vsce": "1.22.0"
+  }
+}
