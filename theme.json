@@ -8,7 +8,7 @@
 		"badge.foreground": "#fff",
 		"progressBar.background": "#777777",
 		"input.background": "#14191f",
-		"input.foreground": "#",
+		"input.foreground": "#d1d4d3",
 		"input.border": "#7777774C",
 		"input.placeholderForeground": "#7777778A",
 		"inputOption.activeBorder": "#7777778A",
