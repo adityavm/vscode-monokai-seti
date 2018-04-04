@@ -15,9 +15,9 @@
 		"inputValidation.infoBackground": "#15191b",
 		"inputValidation.infoBorder": "#66D9EF",
 		"inputValidation.warningBackground": "#15191b",
-		"inputValidation.warningBorder": "#ffb454",
+		"inputValidation.warningBorder": "#FD971F",
 		"inputValidation.errorBackground": "#15191b",
-		"inputValidation.errorBorder": "#ff3333",
+		"inputValidation.errorBorder": "#dc322f",
 		"dropdown.background": "#14191f",
 		"list.focusAndSelectionBackground": "#1d242c",
 		"list.focusAndSelectionForeground": "#d1d4d3",
@@ -44,7 +44,7 @@
 		"editor.foreground": "#d1d4d3",
 		"editor.selectionBackground": "#253340",
 		"editor.findMatchBackground": "#77777733",
-		"editor.findMatchHighlightBackground": "#77777733",
+		"editor.findMatchHighlightBackground": "#ffe25c",
 		"editor.findRangeHighlightBackground": "#77777733",
 		"editorLink.activeForeground": "#777777",
 		"editorLink.foreground": "#777777",
@@ -62,14 +62,14 @@
 		"editorHoverWidget.border": "#1d242c",
 		"editorBracketMatch.border": "#35404c",
 		"editorOverviewRuler.border": "#1d242c",
-		"editorOverviewRuler.errorForeground": "#ff3333",
+		"editorOverviewRuler.errorForeground": "#dc322f",
 		"editorOverviewRuler.warningForeground": "#777777",
 		"editorRuler.foreground": "#1d242c",
-		"editorError.foreground": "#ff3333",
+		"editorError.foreground": "#dc322f",
 		"editorWarning.foreground": "#777777",
 		"editorGutter.modifiedBackground": "#66D9EF",
 		"editorGutter.addedBackground": "#c2d94c",
-		"editorGutter.deletedBackground": "#ff3333",
+		"editorGutter.deletedBackground": "#dc322f",
 		"editorSuggestWidget.background": "#14191f",
 		"editorSuggestWidget.border": "#1d242c",
 		"editorSuggestWidget.selectedBackground": "#191f26",
@@ -147,9 +147,9 @@
 		"terminal.background": "#15191b",
 		"terminal.foreground": "#d1d4d3",
 		"terminal.ansiBlack": "#1d242c",
-		"terminal.ansiRed": "#ff7733",
+		"terminal.ansiRed": "#FD971F",
 		"terminal.ansiGreen": "#c2d94c",
-		"terminal.ansiYellow": "#ffb454",
+		"terminal.ansiYellow": "#FD971F",
 		"terminal.ansiBlue": "#66D9EF",
 		"terminal.ansiMagenta": "#ca30c7",
 		"terminal.ansiCyan": "#95e6cb",
@@ -274,14 +274,14 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#FF3333"
+				"foreground": "#dc322f"
 			}
 		},
 		{
 			"name": "Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#FF7733",
+				"background": "#FD971F",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -317,7 +317,7 @@
 			"name": "Changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#FF7733"
+				"foreground": "#FD971F"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 			"name": "Markup - Raw Block",
 			"scope": "markup.fenced_code.block.markdown",
 			"settings": {
-				"foreground": "#FF7733"
+				"foreground": "#FD971F"
 			}
 		},
 		{
@@ -593,7 +593,7 @@
 			"name": "AceJump Label - Orange",
 			"scope": "acejump.label.orange",
 			"settings": {
-				"background": "#FF7733",
+				"background": "#FD971F",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -623,7 +623,7 @@
 			"name": "SublimeLinter Error",
 			"scope": "sublimelinter.mark.error",
 			"settings": {
-				"foreground": "#FF3333"
+				"foreground": "#dc322f"
 			}
 		},
 		{
@@ -662,7 +662,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#dc322f"
 			}
 		},
 		{
