@@ -1,51 +1,56 @@
 {
-  "name": "vscode-monokai-seti",
-  "displayName": "Monokai Seti",
-  "description": "A derivative of Monokai Seti (for Atom) for Visual Studio Code",
-  "version": "0.0.5",
-  "publisher": "adityavm",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/adityavm/vscode-monokai-seti"
-  },
-  "bugs": {
-    "url": "https://github.com/adityavm/vscode-monokai-seti/issues",
-    "email": "github@adityamukherjee.com"
-  },
-  "engines": {
-    "vscode": "^1.13.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "icon-theme",
-    "theme",
-    "ayu"
-  ],
-  "homepage": "https://github.com/adityavm/vscode-monokai-seti",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Monokai Seti",
-        "uiTheme": "vs-dark",
-        "path": "./theme.json"
-      }
-    ],
-    "iconThemes": [
-      {
-        "id": "Monokai Seti Icons",
-        "label": "Icons",
-        "path": "./icons.json"
-      }
-    ]
-  },
-  "scripts": {
-    "pub": "vsce publish",
-    "package": "vsce package"
-  },
-  "devDependencies": {
-    "vsce": "^1.37.6"
-  }
+	"name": "vscode-monokai-seti",
+	"displayName": "Monokai Seti",
+	"description": "A derivative of Monokai Seti (for Atom) for Visual Studio Code",
+	"version": "0.0.5",
+	"publisher": "adityavm",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adityavm/vscode-monokai-seti"
+	},
+	"bugs": {
+		"url": "https://github.com/adityavm/vscode-monokai-seti/issues",
+		"email": "github@adityamukherjee.com"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"icon-theme",
+		"theme",
+		"ayu"
+	],
+	"homepage": "https://github.com/adityavm/vscode-monokai-seti",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Seti",
+				"uiTheme": "vs-dark",
+				"path": "./theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "Monokai Seti Icons",
+				"label": "Icons",
+				"path": "./icons.json"
+			}
+		]
+	},
+	"scripts": {
+		"pub": "vsce publish",
+		"package": "vsce package"
+	},
+	"devDependencies": {
+		"vsce": "^1.37.6"
+	},
+	"__metadata": {
+		"id": "c1b68480-b00a-4451-9eef-ce63d4e6b79b",
+		"publisherDisplayName": "Aditya Mukherjee",
+		"publisherId": "cbe4da1a-d290-4a85-a6c6-c7cd5fd4d54c"
+	}
 }
