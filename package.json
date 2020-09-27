@@ -46,7 +46,7 @@
 		"package": "vsce package"
 	},
 	"devDependencies": {
-		"vsce": "^1.37.6"
+		"vsce": "^1.80.0"
 	},
 	"__metadata": {
 		"id": "c1b68480-b00a-4451-9eef-ce63d4e6b79b",
