@@ -57,6 +57,7 @@
     "editorWhitespace.foreground": "#35404c",
     "editorIndentGuide.background": "#35404c",
     "editorLineNumber.foreground": "#35404c",
+    "editorLineNumber.activeForeground": "#587289",
     "editorHoverWidget.background": "#14191f",
     "editorHoverWidget.border": "#1d242c",
     "editorBracketMatch.border": "#35404c",
