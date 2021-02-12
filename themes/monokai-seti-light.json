@@ -234,7 +234,7 @@
       "name": "Tag",
       "scope": "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -284,14 +284,14 @@
       "name": "Class, Instance, Support",
       "scope": "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "Sub-methods, Module",
       "scope": "entity.name.module, entity.name.type.module, variable.import.parameter.js, variable.other.class.js",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -299,7 +299,7 @@
       "scope": "variable.language",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -321,7 +321,7 @@
       "name": "Html punctuations tags",
       "scope": "punctuation.definition.tag.end, punctuation.definition.tag.begin, punctuation.definition.tag",
       "settings": {
-        "foreground": "#66D9EF90"
+        "foreground": "#3CD2EF90"
       }
     },
     {
@@ -342,7 +342,7 @@
       "name": "Deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -393,7 +393,7 @@
       "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -462,7 +462,7 @@
       "scope": "markup.table",
       "settings": {
         "background": "#3cadd71a",
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -476,7 +476,7 @@
       "name": "Markdown - Markup Raw Inline",
       "scope": "text.html.markdown markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
@@ -546,70 +546,70 @@
       "name": "JSON Key - Level 8",
       "scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 7",
       "scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 6",
       "scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 5",
       "scope": "source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 4",
       "scope": "source.json meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 3",
       "scope": "source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 2",
       "scope": "source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 1",
       "scope": "source.json meta meta.structure.dictionary.json string.quoted.double.json - meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta.structure.dictionary.json punctuation.definition.string - meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "JSON Key - Level 0",
       "scope": "source.json meta.structure.dictionary.json string.quoted.double.json - meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json punctuation.definition.string - meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
       "name": "AceJump Label - Blue",
       "scope": "acejump.label.blue",
       "settings": {
-        "background": "#66D9EF",
+        "background": "#3CD2EF",
         "foreground": "#FFFFFF"
       }
     },
@@ -641,7 +641,7 @@
       "name": "SublimeLinter Warning",
       "scope": "sublimelinter.mark.warning",
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#3CD2EF"
       }
     },
     {
