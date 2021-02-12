@@ -81,7 +81,7 @@
     "tab.unfocusedActiveForeground": "#8a9199",
     "tab.unfocusedInactiveForeground": "#8a9199",
     "editor.background": "#ffffff",
-    "editor.foreground": "#575f66",
+    "editor.foreground": "#2D2E2E",
     "editorLineNumber.foreground": "#8a919966",
     "editorLineNumber.activeForeground": "#8a9199cc",
     "editorCursor.foreground": "#ff9940",
@@ -198,7 +198,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#d1d4d3ff",
+        "foreground": "#2D2E2Eff",
         "background": "#15191bff"
       }
     },
@@ -213,7 +213,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#d1d4d3"
+        "foreground": "#2D2E2E"
       }
     },
     {
@@ -241,7 +241,7 @@
       "name": "JSX Tag",
       "scope": "meta.tag.jsx",
       "settings": {
-        "foreground": "#d1d4d3"
+        "foreground": "#2D2E2E"
       }
     },
     {
@@ -269,7 +269,7 @@
       "name": "Function Argument, Tag, Embedded",
       "scope": "variable.parameter, keyword.other.unit",
       "settings": {
-        "foreground": "#FFD500"
+        "foreground": "#E8C510"
       }
     },
     {
@@ -277,7 +277,7 @@
       "scope": "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#FFD500"
+        "foreground": "#E8C510"
       }
     },
     {
@@ -431,7 +431,7 @@
       "scope": "markup.underline",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#FFD500"
+        "foreground": "#E8C510"
       }
     },
     {
@@ -469,7 +469,7 @@
       "name": "Markdown - Plain",
       "scope": "text.html.markdown, punctuation.definition.list_item.markdown",
       "settings": {
-        "foreground": "#d1d4d3"
+        "foreground": "#2D2E2E"
       }
     },
     {
@@ -514,7 +514,7 @@
       "scope": "markup.raw.block.fenced.markdown",
       "settings": {
         "background": "#ffffff10",
-        "foreground": "#d1d4d3"
+        "foreground": "#2D2E2E"
       }
     },
     {
