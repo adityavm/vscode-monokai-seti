@@ -269,7 +269,7 @@
       "name": "Function Argument, Tag, Embedded",
       "scope": "variable.parameter, keyword.other.unit",
       "settings": {
-        "foreground": "#FFEE99"
+        "foreground": "#FFD500"
       }
     },
     {
@@ -277,7 +277,7 @@
       "scope": "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#FFEE99"
+        "foreground": "#FFD500"
       }
     },
     {
@@ -431,7 +431,7 @@
       "scope": "markup.underline",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#FFEE99"
+        "foreground": "#FFD500"
       }
     },
     {
