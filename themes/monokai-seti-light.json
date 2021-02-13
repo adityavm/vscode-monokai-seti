@@ -85,10 +85,10 @@
     "editorLineNumber.foreground": "#8a919966",
     "editorLineNumber.activeForeground": "#8a9199cc",
     "editorCursor.foreground": "#ff9940",
-    "editor.selectionBackground": "#c0e1ff",
+    "editor.selectionBackground": "#c0e1ff90",
     "editor.inactiveSelectionBackground": "#f2f9ff",
     "editor.selectionHighlightBackground": "#bfdcff50",
-    "editor.wordHighlightBackground": "#3490ff20",
+    "editor.wordHighlightBackground": "#3490ff10",
     "editor.wordHighlightBorder": "#a5c6ff50",
     "editor.findMatchBackground": "#ff99400d",
     "editor.findMatchBorder": "#ff9940",
@@ -245,7 +245,7 @@
       "name": "Function, Special Method, Block Level",
       "scope": "entity.name.function, keyword.other.special-method, variable.function, meta.block-level, support.function",
       "settings": {
-        "foreground": "#81cc00"
+        "foreground": "#7dc500"
       }
     },
     {
