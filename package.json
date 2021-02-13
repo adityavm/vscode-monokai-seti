@@ -28,9 +28,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai Seti",
+				"label": "Monokai Seti Light",
+				"uiTheme": "vs",
+				"path": "./themes/monokai-seti-light.json"
+			},
+			{
+				"label": "Monokai Seti Dark",
 				"uiTheme": "vs-dark",
-				"path": "./theme.json"
+				"path": "./themes/monokai-seti-dark.json"
 			}
 		],
 		"iconThemes": [
