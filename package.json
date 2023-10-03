@@ -2,7 +2,7 @@
 	"name": "vscode-monokai-seti",
 	"displayName": "Monokai Seti",
 	"description": "A derivative of Monokai Seti (for Atom) for Visual Studio Code",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"publisher": "adityavm",
 	"license": "MIT",
 	"repository": {
