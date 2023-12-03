@@ -28,7 +28,7 @@
     "inputValidation.infoBackground": "#fafafa",
     "inputValidation.infoBorder": "#55b4d4",
     "inputValidation.warningBackground": "#fafafa",
-    "inputValidation.warningBorder": "#e6bb00",
+    "inputValidation.warningBorder": "#fd971f",
     "scrollbar.shadow": "#8a91991a",
     "scrollbarSlider.background": "#8a919966",
     "scrollbarSlider.hoverBackground": "#8a919999",
@@ -186,7 +186,7 @@
     "terminal.ansiBrightBlack": "#686868",
     "terminal.ansiBrightRed": "#f07171",
     "terminal.ansiBrightGreen": "#86b300",
-    "terminal.ansiBrightYellow": "#e6bb00",
+    "terminal.ansiBrightYellow": "#fd971f",
     "terminal.ansiBrightBlue": "#399ee6",
     "terminal.ansiBrightMagenta": "#a37acc",
     "terminal.ansiBrightCyan": "#4cbf99",
@@ -266,7 +266,7 @@
       "name": "Function Argument, Tag, Embedded",
       "scope": "variable.parameter, keyword.other.unit",
       "settings": {
-        "foreground": "#e6bb00"
+        "foreground": "#fd971f"
       }
     },
     {
@@ -274,7 +274,7 @@
       "scope": "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#e6bb00"
+        "foreground": "#fd971f"
       }
     },
     {
